@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: MIT
   image-alt: Five rows of narrow grey tables, 50 chairs, and sliding chalkboards.
+parent_uid: 42927738-6e3e-c905-5842-dd0043c85563
 resourcetype: Image
 title: 18-S096_classroom
 uid: 31f85955-4fa6-20fa-9037-61a3d73b155b
